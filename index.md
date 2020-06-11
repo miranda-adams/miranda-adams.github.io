@@ -12,7 +12,7 @@
 
 ### June 23rd NYC Primary Elections
 
-- [State Assembly, State Senate, and US Congress primary elections](https://miranda-adams.github.io/primary-map/)
+[State Assembly, State Senate, and US Congress primary elections](https://miranda-adams.github.io/primary-map/)
 <img src="images/primary_preview.PNG?raw=true"/>
 
 
