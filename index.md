@@ -4,7 +4,7 @@
 
 ### Defund the NYPD 
 
-[City Councilmembers on defunding the NYPD and how to contact them, updated frequently](https://miranda-adams.github.io/defund-nypd/)
+Update: The budget was passed without the called-for cuts. [City Councilmembers on defunding the NYPD and how to contact them](https://miranda-adams.github.io/defund-nypd/)
 <img src="images/defund_preview.PNG?raw=true"/>
 
 
